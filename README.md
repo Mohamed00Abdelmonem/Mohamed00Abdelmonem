@@ -15,7 +15,7 @@
   <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.github.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="figma" width="40" height="40"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer">
@@ -44,11 +44,7 @@
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
- 
- 
- 
- 
+ </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
 
