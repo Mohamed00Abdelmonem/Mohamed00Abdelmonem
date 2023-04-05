@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Abdelmonem </h1>
-<h3 align="center"> Junior Backend Developer | Python Django  from Egypt </h3>
+<h3 align="center"> Junior Backend Developer | Python Django </h3>
 
 
 <h3 align="left">Connect with me:</h3>
