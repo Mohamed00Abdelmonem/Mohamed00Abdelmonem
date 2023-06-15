@@ -2,6 +2,40 @@
 <h3 align="center"> Junior Backend Developer | Python Django </h3>
 
 
+
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=3000&pause=503&center=true&vCenter=true&width=1000&lines=Hello+Everyone;My+name+is+Mohamed Abdelmonem +.;I+am+a+Software+Developer+.;and+my+interests+include+%5BPython+%2C+Django+%2C+Rest+Framework%5D" alt="Typing SVG" /></a>
+
+```python
+from rest_framework.decorators import api_view
+from rest_framework.response import Response
+
+@api_view(['POST'])
+def introduce_yourself(request):
+    name = request.data.get('name', Mohamed Abdelmonem')
+    occupation = request.data.get('occupation', 'Software Developer')
+    interests = request.data.get('interests', ['Python', 'Django', 'Rest Framework'])
+
+    introduction = f"Hello, my name is {name}. I am a {occupation} and my interests include {', '.join(interests)}."
+
+    return Response({'introduction': introduction})
+```
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{faresemad}/count.svg" /></p> 
+<br>
+</div>
+<hr>
+
+
+
+
+
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://twitter.com/mrpazresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrpaziresh" height="30" width="40" /></a> -->
