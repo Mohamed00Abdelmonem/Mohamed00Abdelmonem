@@ -24,7 +24,8 @@ def introduce_yourself(request):
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
     
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Mohamed00Abdelmonem}/count.svg" /></p> 
+<p align="center"><img align="center" src="![Visitor Count](https://profile-counter.glitch.me/{Mohamed00Abdelmonem }/count.svg)
+" /></p> 
 
 <br>
 </div>
