@@ -47,7 +47,7 @@ def introduce_yourself(request):
 ✌️ &emsp; Enjoying programming and sharing knowledge <br/><br/>
 ❤️ &emsp; Love writing code and learning new features<br/><br/>
 📧 &emsp; Reach me anytime: [mmohamedabdelm@gmail.com](mailto:mmohamedabdelm@gmail.com)<br/><br/>
-💬 &emsp; Ask me about anything [here](https://www.linkedin.com/in/mohamed-abdelmonem-716ba026b)
+💬 &emsp; Ask me about anything [here](https://www.linkedin.com/in/mohamed-abdelmonem-716ba026b)<br/><br/>
 🌐 &emsp; Check out my portfolio: [My Portfolio](https://mohamed00abdelmonem.github.io/My-Portfolio/)
 
 </p>
@@ -127,9 +127,6 @@ def introduce_yourself(request):
     <a href="https://github.com/Mohamed00Abdelmonem"><img alt="Mohamed Abdelmonem's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Mohamed00Abdelmonem&langs_count=8&layout=compact&theme=react&border_color=199260&bg_color=0D1117&title_color=B6E7D8&icon_color=F8D866" height="192px" width="49.5%"/></a>
     <br/>
   </a>
-  
-  
-  ![Mohamed Abdelmonem's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohamed00Abdelmonem
 
 
 
