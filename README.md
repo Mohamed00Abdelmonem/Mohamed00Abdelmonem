@@ -38,77 +38,103 @@ def introduce_yourself(request):
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- <a href="https://twitter.com/mrpazresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrpaziresh" height="30" width="40" /></a> -->
-<a href="https://www.linkedin.com/in/mohamed-abdelmonem-716ba026b/"
- target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrpaziresh" height="30" width="40" /></a>
+<!-- About Section -->
+ # About me
  
- <a href="https://mohamed00abdelmonem.github.io/My-Portfolio/"
- target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/chrome.svg" alt="mrpaziresh" height="30" width="40" /></a>
- 
-<!-- <a href="https://www.youtube.com/channel/UCWmaTWbA6NoiOQN-s_pCYg" target="blank"><img align="center" src="<a href="https://www.flaticon.com/free-icons/gmail" title="gmail icons">Gmail icons created by Freepik - Flaticon</a>" alt="nrpaziresh" height="30" width="40" /></a> -->
+<p>
+ <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+    
+✌️ &emsp; Enjoying programming and sharing knowledge <br/><br/>
+❤️ &emsp; Love writing code and learning new features<br/><br/>
+📧 &emsp; Reach me anytime: [mmohamedabdelm@gmail.com](mailto:mmohamedabdelm@gmail.com)<br/><br/>
+💬 &emsp; Ask me about anything [here](https://www.linkedin.com/in/mohamed-abdelmonem-716ba026b)
+🌐 &emsp; Check out my portfolio: [My Portfolio](https://mohamed00abdelmonem.github.io/My-Portfolio/)
+
 </p>
 
+<br/>
+<br/>
+<br/>
+
+## Use To Code
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" alt="digitalocean logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="heroku logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+<br/>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<br/>
+<hr/>
+<br/>
 
-
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<p align="center">
+    <a href="[https://github.com/Mohamed00Abdelmonem](https://github.com/Mohamed00Abdelmonem)">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed00Abdelmonem&theme=radical&border=199260&background=0D1117" alt="Saif's GitHub streak"/>
+    </a>
+  </p>
+  
+  <p align="center">
+    <a href="https://github.com/Mohamed00Abdelmonem">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohamed00Abdelmonem&theme=radical" alt="Mohamed Abdelmonem's GitHub Contribution"/>
+    </a>
+  </p>
+  
+  <a> 
+      <a href="https://github.com/Mohamed00Abdelmonem"><img alt="Mohamed Abdelmonem's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Mohamed00Abdelmonem&show_icons=true&count_private=true&theme=react&border_color=199260&bg_color=0D1117&title_color=B6E7D8&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/Mohamed00Abdelmonem"><img alt="Mohamed Abdelmonem's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Mohamed00Abdelmonem&langs_count=8&layout=compact&theme=react&border_color=199260&bg_color=0D1117&title_color=B6E7D8&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <br/>
   </a>
-  <a href="https://www.github.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.digitalocean.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original-wordmark.svg" alt="digitalocean" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
- </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+  
+  
+  ![Mohamed Abdelmonem's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohamed00Abdelmonem
 
 
-🕵️‍♂️ About Me
 
-    🙂 I am Mohamed Abdelmonem And Im 20 years old.
-
-    📍 Im Egyptian and I live in Mansoura,Egypt.
-   
-    😎 Interested in contributing expertise in web development.
-
-    👯 Looking to collaborate on Innovative Projects.
-
-    👨‍💻 Enjoy contributing to Open Source Projects and eager to learn new technologies.
-
-    📚 Love reading books on personal development.
-
-    💬 Ask me about Web.
-
-
+<br/>
+<br/>
 
  
  <img src="https://raw.githubusercontent.com/pythondeveloper6/pythondeveloper6/output/snake.svg" alt="Snake animation" />
