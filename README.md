@@ -150,7 +150,12 @@ def introduce_yourself(request):
 
 
 <br/>
-<br/>
+
 
  
  <img src="https://raw.githubusercontent.com/pythondeveloper6/pythondeveloper6/output/snake.svg" alt="Snake animation" />
+
+<br/>
+
+![Mohamed Abdelmonem's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohamed00Abdelmonem&custom_title=Mohamed%20Abdelmonem's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=199260&line=199260&point=199260&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
