@@ -126,7 +126,6 @@ def introduce_yourself(request):
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Mohamed00Abdelmonem&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
----
 
 <br/>
 <hr/>
