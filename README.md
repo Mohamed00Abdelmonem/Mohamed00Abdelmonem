@@ -36,8 +36,6 @@ def introduce_yourself(request):
 
 
 
-
-
 <!-- About Section -->
  # About me
  
@@ -124,6 +122,14 @@ def introduce_yourself(request):
 ###
 <br/>
 
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Mohamed00Abdelmonem&limit=5&theme=nord&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Mohamed00Abdelmonem&icon=1&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <br/>
 <hr/>
