@@ -1,7 +1,14 @@
-<h1 align="center">Hi 👋, I'm Mohamed Abdelmonem  </h1>
-<h3 align="center"> Junior Backend Developer | Python Django </h3>
+<h1 align="center">Hi 👋, I'm Mohamed Abdelmonem</h1>
+<h3 align="center">Junior Backend Developer | Python Django</h3>
 
-
+<p align="center">
+    <a href="https://github.com/Mohamed00Abdelmonem">
+        <img src="https://img.shields.io/github/followers/Mohamed00Abdelmonem?label=Github%20Followers&style=for-the-badge" alt="GitHub Followers" />
+    </a>
+    <a href="https://www.linkedin.com/in/mohamed-abdelmonem-716ba026b/">
+        <img src="https://img.shields.io/badge/-Mohamed%20Abdelmonem-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+</p>
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=3000&pause=503&center=true&vCenter=true&width=1000&lines=Hello+Everyone;My+name+is+Mohamed Abdelmonem +.;I+am+a+Software+Developer+.;and+my+interests+include+%5BPython+%2C+Django+%2C+Rest+Framework%5D" alt="Typing SVG" /></a>
