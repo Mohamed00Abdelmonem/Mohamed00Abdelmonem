@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋, I'm Mohamed Abdelmonem</h1>
-<h3 align="center">Junior Backend Developer | Python Django</h3>
+<h3 align="center">Backend Developer | Python Django</h3>
 
 <p align="center">
     <a href="https://github.com/Mohamed00Abdelmonem">
         <img src="https://img.shields.io/github/followers/Mohamed00Abdelmonem?label=Github%20Followers&style=for-the-badge" alt="GitHub Followers" />
     </a>
     <a href="https://www.linkedin.com/in/mohamed-abdelmonem-716ba026b/">
-        <img src="https://img.shields.io/badge/-Mohamed%20Abdelmonem-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+         <img src="https://img.shields.io/badge/LinkedIn%20Followers-2000+-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Followers" />
+    </a>
+     </a>
+    <a href="https://mohamed00abdelmonem.github.io/My-Portfolio/">
+         <img src="https://img.shields.io/badge/Portfolio%20Visitors-3670+-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="My Portfolio" />
     </a>
 </p>
 
