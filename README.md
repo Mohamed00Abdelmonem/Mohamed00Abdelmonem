@@ -1,21 +1,54 @@
 <h1 align="center">Hi 👋, I'm Mohamed Abdelmonem</h1>
 <h3 align="center">Backend Developer | Python Django</h3>
 
-<p align="center">
-    <a href="https://github.com/Mohamed00Abdelmonem">
-        <img src="https://img.shields.io/github/followers/Mohamed00Abdelmonem?label=Github%20Followers&style=for-the-badge" alt="GitHub Followers" />
-    </a>
-    <a href="https://www.linkedin.com/in/mohamed-abdelmonem-716ba026b/">
-         <img src="https://img.shields.io/badge/LinkedIn%20Followers-3000+-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Followers" />
-    </a>
-    <a href="https://mohamed00abdelmonem.github.io/My-Portfolio/">
-         <img src="https://img.shields.io/badge/Portfolio%20Visitors-3670+-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="My Portfolio" />
-    </a>
-</p>
+<div align="center">
 
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=3000&pause=503&center=true&vCenter=true&width=1000&lines=Hello+Everyone;My+name+is+Mohamed+Abdelmonem+.;I+am+a+Software+Developer+.;and+my+interests+include+%5BPython+%2C+Django+%2C+Rest+Framework%5D" alt="Typing SVG" />
+<a href="https://git.io/typing-svg" target="_blank">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=3000&pause=503&center=true&vCenter=true&width=1000&lines=Hello+Everyone;My+name+is+Mohamed+Abdelmonem.;I+am+a+Backend+Developer.;My+interests+include+Python%2C+Django%2C+Rest+Framework." alt="Typing SVG" />
 </a>
+
+---
+
+### 🌐 Connect With Me
+
+<a href="https://www.linkedin.com/in/mohamed-abdelmonem-716ba026b/" target="_blank">
+  <img src="https://img.shields.io/badge/Mohamed%20Abdelmonem-LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Mohamed00Abdelmonem" target="_blank">
+  <img src="https://img.shields.io/badge/Mohamed00Abdelmonem-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://monem-ai.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/monem.ai-Portfolio-orange?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/monem.ai/" target="_blank">
+  <img src="https://img.shields.io/badge/monem.ai-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/share/159mJUS9Ph6/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="https://drive.google.com/file/d/1kg2YoTkBU1vIk5uVARu_Tz51DTMNVmjL/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/Download-CV-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+</a>
+
+---
+
+### 📊 Stats & Links
+
+<a href="https://github.com/Mohamed00Abdelmonem" target="_blank">
+  <img src="https://img.shields.io/github/followers/Mohamed00Abdelmonem?label=GitHub%20Followers&style=for-the-badge&logo=github" alt="GitHub Followers" />
+</a>
+<a href="https://www.linkedin.com/in/mohamed-abdelmonem-716ba026b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn%20Followers-3000%2B-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Followers" />
+</a>
+<a href="https://monem-ai.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio%20Visitors-3670%2B-blue?style=for-the-badge&logo=google-chrome" alt="Portfolio Visitors" />
+</a>
+
+</div>
+
+---
+
+### 👨‍💻 Quick Intro with Code
 
 ```python
 from rest_framework.decorators import api_view
@@ -24,12 +57,12 @@ from rest_framework.response import Response
 @api_view(['POST'])
 def introduce_yourself(request):
     name = request.data.get('name', 'Mohamed Abdelmonem')
-    occupation = request.data.get('occupation', 'Software Developer')
+    occupation = request.data.get('occupation', 'Backend Developer')
     interests = request.data.get('interests', ['Python', 'Django', 'Rest Framework'])
 
     introduction = f"Hello, my name is {name}. I am a {occupation} and my interests include {', '.join(interests)}."
-
     return Response({'introduction': introduction})
+
 ```
 
 <div align="center">
