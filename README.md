@@ -26,7 +26,7 @@
 <a href="https://www.facebook.com/share/159mJUS9Ph6/" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-<a href="https://drive.google.com/file/d/1kg2YoTkBU1vIk5uVARu_Tz51DTMNVmjL/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1Q7QqAAVcWfvh2WDjk277Ay5gvGUprie8/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Download-CV-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
 </a>
 
